@@ -5,7 +5,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "alpinejs": "^3.9.5"
+    "alpinejs": "^3.9.5",
+    "mjml": "^4.13.0"
   },
   "devDependencies": {
     "@snowpack/plugin-postcss": "^1.4.3",
